@@ -19,8 +19,8 @@
 
 
 ## 🎥 Lecture Recording
-👉 Add recording link here  
-`https://drive.google.com/file/d/1jLRJPABtlMbaKrIIYhd5l-iMdLx_vdFw/view?usp=sharing`
+[Click here to watch the lecture](https://drive.google.com/file/d/1jLRJPABtlMbaKrIIYhd5l-iMdLx_vdFw/view?usp=sharing) 
+
 
 ---
 
